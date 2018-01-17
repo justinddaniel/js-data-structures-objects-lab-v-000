@@ -1,4 +1,4 @@
 // Write your solution in this file!
-function drivers {
+function drivers () {
   const driver = {}
 }
